@@ -110,7 +110,19 @@ Screenshots of:
 - pingall results (0% packet loss)
 
 All screenshots are included in the screenshots folder.
+---
 
+## 📷 Project Screenshots
+
+![Controller](screenshots/controller.png)
+
+![Packet Logs](screenshots/packet_logs.png)
+
+![Single Ping](screenshots/single_ping.png)
+
+![Linear Topology](screenshots/linear_topology.png)
+
+![Tree Topology](screenshots/tree_topology.png)
 ---
 
 ## 🎯 Key Learning Outcomes
